@@ -1,4 +1,3 @@
-import { json } from 'stream/consumers';
 import * as user from '../user';
 
 describe('User handler', () => {
