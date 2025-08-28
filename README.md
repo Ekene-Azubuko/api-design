@@ -50,3 +50,7 @@ npm start
 - Database integration
 - Testing framework
 - Documentation
+
+## Demo
+![api_demo](https://github.com/user-attachments/assets/247a9552-2eca-4899-9538-808b0e42b4d7)
+
